@@ -1,2 +1,1 @@
-Non empty
-Even more unempty
+0x01-emacs
